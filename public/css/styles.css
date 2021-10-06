@@ -1,0 +1,20 @@
+body{
+    max-width: 1320px;
+    text-align: center;
+  }
+  h1 {
+    margin-top: 7%;
+    font-size: 50px;
+    font-family: fantasy;
+    color: rgb(255, 0, 0);
+  }
+  h4 , p{
+    color: red;
+    font-family: fantasy;
+  }
+  input{
+    text-align: center;
+  }
+  #spinners{
+    display: none;
+  }
